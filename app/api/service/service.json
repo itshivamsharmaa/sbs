@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1776337275803",
+    "name": "hair cut",
+    "price": 100,
+    "duration": 20,
+    "category": "male",
+    "subCategory": "cutting"
+  },
+  {
+    "id": "1776336607762",
+    "name": "facial",
+    "price": 500,
+    "duration": 30
+  },
+  {
+    "id": "1776336429583",
+    "name": "hair cut",
+    "price": 100,
+    "duration": 20
+  }
+]

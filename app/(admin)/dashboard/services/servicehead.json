@@ -1,0 +1,7 @@
+[
+  { "accessorKey": "name", "header": "Name", "type": "text" },
+  { "accessorKey": "price", "header": "Price", "type": "text" },
+  { "accessorKey": "duration", "header": "Duration", "type": "text" },
+  { "accessorKey": "category", "header": "Category", "type": "text" },
+  { "accessorKey": "subCategory", "header": "Sub Category", "type": "text" }
+]
