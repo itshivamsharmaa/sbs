@@ -1,3 +1,34 @@
+
+
+
+# Task
+- website
+- Online Booking 24/7 
+- staff selection / info 
+- service Selection 
+- auto booking Confirmation email or msg 
+- cancel / reschedule 
+- customer booking history 
+- Reviews ? Rating after appointment 
+- SBS Future Update ( like crm features, mobil app, user update )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
